@@ -1,4 +1,6 @@
 estudos-bootstrap
 =================
 
-Estudos do Framework de CSS Bootstrap
+Estudos (e experimentos) do Framework de CSS Bootstrap.
+
+
